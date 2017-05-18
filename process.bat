@@ -1,0 +1,1 @@
+"E:\apriltag_demo.exe" "E:\img.jpg" > NUL
